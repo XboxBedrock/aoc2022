@@ -10,3 +10,4 @@ Solved:
 
 - [Day 1: Calorie Counting](1/1_pt1.py)
 - [Day 2: Rock Paper Scissors](2/2_pt1.js)
+- [Day 3: Rucksack Reorganization](3/ThreePart1.java)
