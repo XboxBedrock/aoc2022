@@ -13,3 +13,4 @@ Solved:
 - [Day 3: Rucksack Reorganization](3/ThreePart1.java)
 - [Day 4: Camp Cleanup](4/4_part1.dart)
 - [Day 5: Supply Stacks](5/5_part1.coffee)
+- [Day 6: Tuning Trouble](6/6_part1.rs)
