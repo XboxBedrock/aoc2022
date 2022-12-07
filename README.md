@@ -14,3 +14,4 @@ Solved:
 - [Day 4: Camp Cleanup](4/4_part1.dart)
 - [Day 5: Supply Stacks](5/5_part1.coffee)
 - [Day 6: Tuning Trouble](6/6_part1.rs)
+- [Day 7: No Space Left On Device](7/7_part1.lua)
