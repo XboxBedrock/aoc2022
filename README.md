@@ -15,3 +15,6 @@ Solved:
 - [Day 5: Supply Stacks](5/5_part1.coffee)
 - [Day 6: Tuning Trouble](6/6_part1.rs)
 - [Day 7: No Space Left On Device](7/7_part1.lua)
+- [Day 8: Treetop Tree House](8/8_part1.swift)
+- [Day 9: Rope Bridge](9/9_part1.rb)
+- [Day 10: Cathode-Ray Tube](10/10_part1.pl)
