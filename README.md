@@ -18,3 +18,4 @@ Solved:
 - [Day 8: Treetop Tree House](08/8_part1.swift)
 - [Day 9: Rope Bridge](09/9_part1.rb)
 - [Day 10: Cathode-Ray Tube](10/10_part1.pl)
+- [Day 11: Monkey in the Middle](11/11_part1.kts)
