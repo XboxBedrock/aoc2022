@@ -4,7 +4,9 @@ All my advent of code solutions for 2022
 
 This is not my most magnificent nor effecient code since most days i'm gonna be rushing this in between assignments
 
-I am also going to use a new programming language everday, so again some code won't be great!
+~~am also going to use a new programming language everday, so again some code won't be great!~~
+
+Dropped that challenge, only using Python and C++ day 12 and onwards due to lack of time
 
 Solved:
 
@@ -19,3 +21,7 @@ Solved:
 - [Day 9: Rope Bridge](09/9_part1.rb)
 - [Day 10: Cathode-Ray Tube](10/10_part1.pl)
 - [Day 11: Monkey in the Middle](11/11_part1.kts)
+
+Only python
+
+- [Day 12: Hill Climbing Algorithm](12/12_part1.py)
