@@ -8,6 +8,8 @@ This is not my most magnificent nor effecient code since most days i'm gonna be 
 
 Dropped that challenge, only using Python and C++ day 12 and onwards due to lack of time
 
+Not solving all of them due to lack of time, below are the days done :)
+
 Solved:
 
 - [Day 1: Calorie Counting](01/1_pt1.py)
@@ -25,3 +27,12 @@ Solved:
 Only python
 
 - [Day 12: Hill Climbing Algorithm](12/12_part1.py)
+- [Day 13: Distress Signal](13/13_part1.py)
+- [Day 14: Regolith Reservoir](14/14_part1.py)
+- [Day 15: Beacon Exclusion Zone](15/15_part1.py)
+- [Day 16: Proboscidea Volcanium](16/16_part1.py)
+- [Day 17: Pyroclastic Flow](17/17_part1.py)
+- [Day 18: Boiling Boulders](18/18_part1.py)
+- [Day 20: Grove Positioning System](20/20_part1.py)
+- [Day 21: Monkey Math](21/21_part1.py)
+- [Day 25: Full of Hot Air](25/25_part1.py)
